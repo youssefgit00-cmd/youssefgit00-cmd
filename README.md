@@ -1,6 +1,5 @@
 <h1>Hi, I am Youssef</h1>
 
-<hr />
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
