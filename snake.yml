@@ -13,14 +13,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v3
-        id: snake
+      - name: Build snake SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # %23 is a literal '#'. An unescaped # starts a YAML comment and
+          # silently truncates the palette, which is a common cause of the
+          # snake falling back to GitHub's default green.
           outputs: |
-            dist/snake.svg?color_snake=%23a2da00&color_dots=%23161b09,%2334450f,%235d7a19,%237fa800,%23a2da00
+            dist/snake-dark.svg?color_snake=%23e8ece2&color_dots=%2310130b,%232f4210,%23547310,%237ba800,%23a2da00
+            dist/snake-light.svg?color_snake=%230a0a0a&color_dots=%23eef2e2,%23d3e59a,%23bcd95c,%23b0e02b,%23a2da00
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
