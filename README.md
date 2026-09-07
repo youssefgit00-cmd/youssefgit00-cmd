@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=youssefgit00-cmd&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=a2da00&icon_color=a2da00&text_color=dfe4d6&ring_color=a2da00">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgit00-cmd&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=a2da00&text_color=dfe4d6">
+<img height="165" src="https://github-readme-stats-ioio-three.vercel.app/api?username=youssefgit00-cmd&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=a2da00&icon_color=a2da00&text_color=dfe4d6&ring_color=a2da00">
+<img height="165" src="https://github-readme-stats-ioio-three.vercel.app/api/top-langs/?username=youssefgit00-cmd&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=a2da00&text_color=dfe4d6">
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssefgit00-cmd/youssefgit00-cmd/output/snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssefgit00-cmd/youssefgit00-cmd/output/snake-light.svg"> <img width="880" alt="Contribution graph" src="https://raw.githubusercontent.com/youssefgit00-cmd/youssefgit00-cmd/output/snake-dark.svg"> </picture>
 
