@@ -1,5 +1,3 @@
-<!-- SVGs live at the repo root, not in an assets folder. -->
-
 <div align="center">
 
 <img src="name.svg" width="760" alt="Youssef Kandeel">
@@ -33,6 +31,8 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" alt="Python">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" alt="Java">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" alt="C++">&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="38" alt="Rust"></picture>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" alt="TypeScript">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" alt="React">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" alt="Node.js">&nbsp;&nbsp;
@@ -44,8 +44,7 @@
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="38" alt="AWS">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" alt="Docker">&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="38" alt="Kubernetes">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" alt="Linux">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="38" alt="Android">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" alt="Linux">
 
 </div>
 
