@@ -17,7 +17,7 @@
 
 | | What it does | Built with |
 |---|---|---|
-| **[LifeOS](https://github.com/youssefgit00-cmd/lifeos)** | A GrapheneOS fork with one shared daily budget — about three hours — across every app I lose time to. Spend it and the phone drops into work mode, where only a short allowlist opens. | AOSP, Kotlin, Java, Gradle |
+| **[LifeOS](https://github.com/youssefgit00-cmd/lifeos)** | A GrapheneOS fork with one shared daily budget — about three hours — across every app I lose time to. Spend it and the phone drops into work mode, where only a short allowlist opens. | AOSP, Kotlin, Gradle |
 | **[Multi-agent chat](https://github.com/youssefgit00-cmd/multi-agent-chat)** | Sends a single prompt to Llama, DeepSeek, Qwen and Gemma running locally, then lets them argue the answer out against each other. | Python, Docker, local LLMs |
 | **[Meeting copilot](https://github.com/youssefgit00-cmd/meeting-copilot)** | Live transcription with an LLM analysing the conversation while it happens, not after. | Python, streaming STT, LLM APIs |
 | **[EnerGong](https://github.com/youssefgit00-cmd/energong)** | Hackathon build: homeowners with solar sell surplus power to nearby renters under retail price, or donate it to the council. | Web stack, first hackathon |
